@@ -133,6 +133,7 @@ body {
 }
 #catalogo h2 {
   display: block;
+  width: 100%;
   text-align: center;
   margin: 0px auto;
   font-size: 35px;
